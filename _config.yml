@@ -14,7 +14,7 @@
 # on GitHub Pages it is your github repository's name prefixed with a /
 #baseurl: /avenu-archive 
 # location of code, the full url to your github repository
-source-code: https://github.com/SIArchive/avenu-archive
+source-code: https://siarchive.github.io/avenu-archive/ 
 
 ##########
 # SITE SETTINGS
@@ -22,10 +22,10 @@ source-code: https://github.com/SIArchive/avenu-archive
 # title of site appears in banner
 title: Avenu Archive 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: An archive of the University of Oregon Student Publication avenu
+tagline: The Journal of Architecture and Allied Arts
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This archive details the student art and art criticize publication avenu as it ran from 1972 to 1998"
+description: "This archive details the student art and art criticism publication avenu as it ran from 1972 to 1998"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 

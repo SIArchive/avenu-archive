@@ -20,21 +20,21 @@ source-code: https://siarchive.github.io/avenu-archive/
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Avenu Archive 
+title: Avenu Archive DEMO
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: The Journal of Architecture and Allied Arts
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "This archive details the student art and art criticism publication avenu as it ran from 1972 to 1998"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Karianna Muller
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: test_metadata.csv
+metadata: psychiana_cbdemo_gh - Sheet1.csv
 
 ##########
 # Site/Organization Branding 
